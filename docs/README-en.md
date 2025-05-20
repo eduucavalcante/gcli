@@ -58,8 +58,8 @@ gcli help
 | `gcli` Command       | Git Equivalent                             | Description                                      |
 | -------------------- | ------------------------------------------ | ------------------------------------------------ |
 | `gcli repo [url]`    | `git remote add origin [url]`              | Adds a remote repository                         |
-| `gcli deploy`        | `git add . && git push origin main`        | Stages all changes and pushes to the main branch |
-| `gcli commit [msg]`  | `git commit -m "[msg]"`                    | Commits with the provided message                |
+| `gcli deploy`        | `git push origin main`                     | Stages all changes and pushes to the main branch |
+| `gcli commit [msg]`  | `git add . && commit -m "[msg]"`           | Commits with the provided message                |
 | `gcli main`          | `git branch -M main`                       | Renames the current branch to "main"             |
 | `gcli name [name]`   | `git config --global user.name "[name]"`   | Sets the global Git username                     |
 | `gcli email [email]` | `git config --global user.email "[email]"` | Sets the global Git email                        |
