@@ -20,7 +20,7 @@
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/gcli.git
+git clone https://github.com/eduucavalcante/gcli.git
 cd gcli
 ```
 

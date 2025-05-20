@@ -18,7 +18,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/gcli.git
+git clone https://github.com/eduucavalcante/gcli.git
 cd gcli
 ````
 
