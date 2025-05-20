@@ -1,0 +1,17 @@
+{
+  "name": "gcli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "gcli": "./gcli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Cavalcante",
+  "license": "ISC",
+  "description": "Command line assistant for Git, simplifying common Git commands",
+  "engines": {
+    "node": ">=14"
+  }
+}
