@@ -1,8 +1,3 @@
-Claro! Aqui está o `README.md` traduzido para o inglês, com base na sua versão atualizada do projeto `gcli`:
-
----
-
-````md
 # gcli – Git Command Line Assistant
 
 `gcli` is a command line assistant for Git, written in Node.js. It simplifies common Git commands with shorter, intuitive alternatives.
