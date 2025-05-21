@@ -1,6 +1,6 @@
 # gcli – Git Command Line Assistant
 
-[Click here to read the documentation in English](./docs/README-en.md)
+[Click here to read the docs in English](./docs/README-en.md)
 
 `gcli` é uma ferramenta simples de linha de comando auxiliar para Git, escrita em Node.js, que simplifica comandos Git comuns com instruções mais curtas e intuitivas.
 
